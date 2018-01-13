@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "b5be047139745c88940a703c7ccf07fe",
+    "content-hash": "cef123b69b0168f77e3b82f68b3d8543",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -3693,26 +3693,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/sendgrid-email-delivery-simplified/"
-        },
-        {
-            "name": "wpackagist-plugin/wordfence",
-            "version": "6.3.19",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wordfence/",
-                "reference": "tags/6.3.19"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordfence.6.3.19.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/wordfence/"
         }
     ],
     "packages-dev": [
