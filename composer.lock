@@ -672,7 +672,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebbean/S3-Uploads",
-                "reference": "52be52a7e5c461c1a5d337e36b5bcf2e39c81e92"
+                "reference": "48883a306265e398f08f3a63961fc012c2d5cd42"
             },
             "require": {
                 "aws/aws-sdk-php": "~3.18",
@@ -698,7 +698,7 @@
                 "issues": "https://github.com/humanmade/s3-uploads/issues",
                 "source": "https://github.com/humanmade/s3-uploads"
             },
-            "time": "2018-01-14T00:42:10+00:00"
+            "time": "2018-01-14T00:46:07+00:00"
         },
         {
             "name": "johnpbloch/wordpress",
