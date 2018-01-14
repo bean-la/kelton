@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d84d590f563940cf12146a83646e15a0",
+    "content-hash": "817b4229f1fb30d544c1baf43b738831",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -671,7 +671,7 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/humanmade/S3-Uploads",
+                "url": "https://github.com/sebbean/S3-Uploads",
                 "reference": "dbbd1c418eb4ca5ac135223e3c79c869229e79e9"
             },
             "require": {

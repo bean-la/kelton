@@ -26,7 +26,7 @@
 		},
 		{
 				"type": "git",
-				"url": "https://github.com/humanmade/S3-Uploads"
+				"url": "https://github.com/sebbean/S3-Uploads"
 		}
   ],
   "minimum-stability": "dev",
